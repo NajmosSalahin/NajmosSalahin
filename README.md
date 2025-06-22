@@ -80,7 +80,7 @@ Feel free to reach out for discussions on:
 * Strategies for creating clean and maintainable code
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/najmus-salehin-185106371/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-najmos-salahin-185106371/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/najmus_sal" target="_blank">
