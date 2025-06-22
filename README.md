@@ -80,16 +80,25 @@ Feel free to reach out for discussions on:
 * Strategies for creating clean and maintainable code
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/najmus-salehin-185106371/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_X_USERNAME" target="_blank">
+  <a href="https://x.com/najmus_sal" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X (formerly Twitter)" />
   </a>
-  <a href="https://www.reddit.com/user/YOUR_REDDIT_USERNAME" target="_blank">
+  <a href="https://facebook.com/najmus.adib" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/15047/15047435.png" width="48" height="48" alt="Facebook" />
+  </a>
+  <a href="https://discord.com/users/sukkimura." target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://t.me/najmusadib" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" width="48" height="48" alt="Telegram" />
+  </a>
+  <a href="https://www.reddit.com/user/PirateSanji_1353/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504934.png" width="48" height="48" alt="Reddit" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="najmussalahin.adib@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
