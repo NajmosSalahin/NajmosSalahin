@@ -60,8 +60,8 @@ You can discuss with me on:
 ### What I'm Currently Working On & Learning
 
 **Currently working on**
-1.  **Project Hermes**: A robust e-commerce platform designed to offer a seamless shopping experience with advanced search functionalities and secure payment gateways. I'm focusing on optimizing its performance and scalability.
-2.  **QuantumFlow Dashboard**: An interactive data visualization dashboard for real-time analytics. This project involves complex chart integrations and efficient data processing to provide actionable insights.
+*  **Project Hermes**: A robust e-commerce platform designed to offer a seamless shopping experience with advanced search functionalities and secure payment gateways. I'm focusing on optimizing its performance and scalability.
+*  **QuantumFlow Dashboard**: An interactive data visualization dashboard for real-time analytics. This project involves complex chart integrations and efficient data processing to provide actionable insights.
 
 **Currently learning**
 * Advanced State Management in React
