@@ -12,7 +12,7 @@ As a passionate **Web Developer** based in Dhaka, Bangladesh, I specialize in cr
 
 * **[LinkVault - Enhanced Bookmark Manager](https://github.com/NajmusAdib/LinkVault)**: A modern, client-side web application for organizing and managing web links with drag-and-drop reordering, intelligent data fetching, and flexible import/export options. Built with HTML, CSS, JavaScript, and Local Storage.
 * **[Kana Learning - Japanese Kana Trainer](https://github.com/NajmusAdib/KanaLearning)**: An interactive web application designed to help users learn and practice Japanese Hiragana and Katakana characters. Features include character drills, quizzes, and progress tracking.
-* **[Kanji Tool - Kanji Learning Tool](https://NajmusAdib/Kanji_Tool)**: A web-based tool for exploring and learning Japanese Kanji which provides a clean, searchable, and filterable interface to a comprehensive database of over 13,000 Kanji characters.
+* **[Kanji Tool - Kanji Learning Tool](https://github.com/NajmusAdib/Kanji_Tool)**: A web-based tool for exploring and learning Japanese Kanji which provides a clean, searchable, and filterable interface to a comprehensive database of over 13,000 Kanji characters.
 ---
 
 ### My Achievements
