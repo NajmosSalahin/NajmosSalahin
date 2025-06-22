@@ -98,7 +98,7 @@ Feel free to reach out for discussions on:
   <a href="https://www.reddit.com/user/PirateSanji_1353/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504934.png" width="48" height="48" alt="Reddit" />
   </a>
-  <a href="najmussalahin.adib@gmail.com" target="_blank">
+  <a href="mailto:najmussalahin.adib@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
