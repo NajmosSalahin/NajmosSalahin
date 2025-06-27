@@ -14,6 +14,7 @@ As a passionate **Web Developer** based in Dhaka, Bangladesh, I specialize in cr
 * **[Kana Learning - Japanese Kana Trainer](https://github.com/NajmusAdib/Kana_Learning-tool)**: An interactive web application designed to help users learn and practice Japanese Hiragana and Katakana characters. Features include character drills, quizzes, and progress tracking.
 * **[Kanji Tool - Kanji Learning Tool](https://github.com/NajmusAdib/Kanji_Tool)**: A web-based tool for exploring and learning Japanese Kanji which provides a clean, searchable, and filterable interface to a comprehensive database of over 13,000 Kanji characters.
 * **[Ai Kana - Ai Kana Learning Website](https://github.com/NajmusAdib/Ai_Kana_Learning_Tool)**: This interactive website helps master Japanese Hiragana and Katakana. It features AI-generated pronunciation tips, example words/sentences, and Kana history. A handwriting practice area with AI assessment. 
+
 ---
 
 ### My Achievements
