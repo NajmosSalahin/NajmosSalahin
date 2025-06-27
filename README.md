@@ -100,7 +100,7 @@ You can discuss with me on:
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NajmusAdib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="Najmus Adib GitHub Stats" />
-    <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmusAdib&layout=compact&theme=tokyonight&hide_border=true" alt="Najmus Adib Top Languages" />
+    <br/> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajmusAdib&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
