@@ -99,9 +99,9 @@ You can discuss with me on:
 ### GitHub Overview 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NajmusAdib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="Najmus Adib GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=NajmusAdib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="Najmus Adib GitHub Stats" />
     
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajmusAdib&theme=dracula&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajmusAdib&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 #### Profile Visits
