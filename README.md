@@ -4,7 +4,7 @@
 
 ### About Me
 
-As a passionate **Web Developer** based in Dhaka, Bangladesh, I specialize in crafting dynamic, responsive, and user-centric digital experiences. My core focus is on building clean, efficient, and scalable web solutions that transform creative ideas into impactful online platforms. I'm constantly learning and exploring new technologies to enhance my expertise and deliver cutting-edge results.
+I'm a Data Scientist and Web Developer from Dhaka, Bangladesh, focused on crafting dynamic, data-driven digital experiences. My expertise in deep learning, MLOps, Python, and SQL allows me to build innovative web apps, from AI-enhanced learning platforms to intelligent productivity tools, making complex data user-friendly.
 
 ---
 
