@@ -34,10 +34,14 @@ I'm a Data Scientist and Web Developer from Dhaka, Bangladesh, focused on crafti
 ### Connect with me & Collaborate
 
 You can discuss with me on:
-* Front-end development best practices
-* Building interactive web applications
-* Effective learning resources for web development
-* Strategies for creating clean and maintainable code
+
+* Front-end strategies for data-driven applications
+
+* Building interactive web experiences with statistical insights
+
+* Effective resources for bridging web development and data science
+
+* Architecting clean, scalable code for full-stack data projects
 
 <p align="center">
     <a href="https://www.linkedin.com/in/md-najmos-salahin-185106371/" target="_blank">
