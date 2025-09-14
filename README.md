@@ -4,7 +4,17 @@
 
 ### About Me
 
-I'm a Data Scientist and Web Developer from Dhaka, Bangladesh, focused on crafting dynamic, data-driven digital experiences. My expertise in deep learning, MLOps, Python, and SQL allows me to build innovative web apps, from AI-enhanced learning platforms to intelligent productivity tools, making complex data user-friendly.
+I am a data enthusiast and self-taught developer with a strong foundation in Python for data analysis, leveraging libraries like Pandas and NumPy to process and interpret datasets. I am fluent in English and Bangla, and possess basic Japanese language skills. My goal is to apply my analytical and communication skills to create robust, data-driven solutions and contribute to projects that require a keen eye for detail and a clear understanding of information.
+---
+
+### Education
+
+* **B.Sc. in Statistics and Data Science** | Islamic University, Kushtia (2025–Present)
+    * **Key Courses:** Introduction to Statistics and Data Science, Computer Fundamentals and Task Oriented Software, Data Analysis Using MS Excel and Minitab, Elementary Probability
+* **Higher Secondary Certificate (HSC)** | Dhaka Imperial College, Dhaka (2023–2025)
+    * **GPA:** 5.00/5.00
+* **Secondary School Certificate (SSC)** | National Ideal School, Dhaka (2020–2022)
+    * **GPA:** 5.00/5.00
 
 ---
 
