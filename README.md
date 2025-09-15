@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a data enthusiast and self-taught developer with a strong foundation in Python for data analysis, leveraging libraries like Pandas and NumPy to process and interpret datasets. I am fluent in English and Bangla, and possess basic Japanese language skills. My goal is to apply my analytical and communication skills to create robust, data-driven solutions and contribute to projects that require a keen eye for detail and a clear understanding of information.
+***I am a data enthusiast and self-taught developer in Bangladesh with a strong foundation in Python for data analysis, leveraging libraries like Pandas and NumPy to process and interpret datasets. I am fluent in English and Bangla, and possess basic Japanese language skills. My goal is to apply my analytical and communication skills to create robust, data-driven solutions and contribute to projects that require a keen eye for detail and a clear understanding of information.***
 
 ---
 
