@@ -17,12 +17,11 @@ jobs:
 
       - name: Download SVG
         run: |
-          mkdir -p public
-          curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/gruvbox_dark
-          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/gruvbox_dark?lb=true
-          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/gruvbox_dark?pb=true
-          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/gruvbox_dark?lbpb=true
-
+          mkdir public
+            curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/shadow
+            curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/shadow?lb=true
+            curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/shadow?pb=true
+            curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/ChouCho_P/shadow?lbpb=true
       - name: Push monkeytype-readme.svg to the monkeytype-readme branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
