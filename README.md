@@ -77,7 +77,7 @@
 ### Typing Stats
 
 <a href="https://monkeytype.com/profile/ChouCho_P">
-        <img src="https://raw.githubusercontent.com/NajmosSalahin/NajmosSalahin/monkeytype-readme/monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
+        <img src="https://raw.githubusercontent.com/NajmosSalahin/NajmosSalahin/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
     </a>
 
 ---
