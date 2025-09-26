@@ -74,6 +74,13 @@
     * **Best Practices in Data Cleaning:** Sharing tips and techniques for handling real-world, messy datasets and ensuring data integrity.
 
 ---
+### Typing Stats
+
+<a href="https://monkeytype.com/profile/ChouCho_P">
+        <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
+
+---
 ### Currently Working On & Learning
 
 * **Currently Working On:**
