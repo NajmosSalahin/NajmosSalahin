@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c8b4e&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=moshi+moshi;I'm+Md.+Najmos+Salahin%2C+a+tech+goblin+desu+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=moshi+moshi;watashi+md.+najmos+salahin%2C+a+tech+goblin+desu+%E2%9C%A9" width="70%" />
 
 <p align="center">
   <img src="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/cat.gif" width="25%" align="right"
