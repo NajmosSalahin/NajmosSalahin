@@ -1,8 +1,16 @@
-# I'm Md. Najmos Salahin.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+who_am_I;I'm+Md.+Najmos+Salahin" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
+<p align="center">
+  <img src="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/cat.gif" width="25%" align="right"
 ### About Me
 
+### I'm Md. Najmos Salahin
 ***I am a data enthusiast and self-taught developer in Bangladesh with a strong foundation in Python for data analysis, leveraging libraries like Pandas and NumPy to process and interpret datasets. I am fluent in English and Bangla, and possess basic Japanese language skills. My goal is to apply my analytical and communication skills to create robust, data-driven solutions and contribute to projects that require a keen eye for detail and a clear understanding of information.***
 
 ---
@@ -73,7 +81,14 @@
     * **The MLOps Lifecycle for Beginners:** Discussing the practical steps involved in taking a machine learning model from a jupyter notebook to a deployable application.
     * **Best Practices in Data Cleaning:** Sharing tips and techniques for handling real-world, messy datasets and ensuring data integrity.
 
+
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmosSalahin&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+
 ---
+
 ### Typing Stats
 
 <a href="https://monkeytype.com/profile/ChouCho_P">
