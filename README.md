@@ -21,6 +21,7 @@
 * **Secondary School Certificate (SSC)** | National Ideal School, Dhaka (2020–2022)
     * **GPA:** 5.00/5.00
 
+
 ---
 
 ### My Toolkits
@@ -86,7 +87,7 @@
 
 ---
 
-### Typing Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Typing Stats
 
 <a href="https://monkeytype.com/profile/ChouCho_P">
         <img src="https://raw.githubusercontent.com/NajmosSalahin/NajmosSalahin/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
