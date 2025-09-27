@@ -154,3 +154,9 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/NajmusAdib/count.svg" alt="Profile views">
 </p>
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/resume.pdf" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
