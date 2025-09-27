@@ -16,6 +16,7 @@
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C690%20hrs%206%20mins-blue)
 <br>
 [![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:cxyfreedom@gmail.com)
