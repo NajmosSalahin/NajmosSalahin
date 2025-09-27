@@ -1,16 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c8b4e&height=120&section=header"/>
 
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+who_am_I;I'm+Md.+Najmos+Salahin" alt="Title GitHub Readme" />
-  </a>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=moshi+moshi;I'm+Md.+Najmos+Salahin%2C+a+tech+goblin+desu+%E2%9C%A9" width="70%" />
 
 <p align="center">
   <img src="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/cat.gif" width="25%" align="right"
-### About Me
 
+### 
 ### I'm Md. Najmos Salahin
+
 ***I am a data enthusiast and self-taught developer in Bangladesh with a strong foundation in Python for data analysis, leveraging libraries like Pandas and NumPy to process and interpret datasets. I am fluent in English and Bangla, and possess basic Japanese language skills. My goal is to apply my analytical and communication skills to create robust, data-driven solutions and contribute to projects that require a keen eye for detail and a clear understanding of information.***
 
 ---
