@@ -12,15 +12,14 @@
 
 ***I am a data enthusiast and self-taught developer in Bangladesh with a strong foundation in Python for data analysis, leveraging libraries like Pandas and NumPy to process and interpret datasets. I am fluent in English and Bangla, and possess basic Japanese language skills. My goal is to apply my analytical and communication skills to create robust, data-driven solutions and contribute to projects that require a keen eye for detail and a clear understanding of information.***
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C690%20hrs%206%20mins-blue)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/md-najmos-salahin-185106371)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/37290297)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Najmus/1eyg6m/10000032/4372349/)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2041%20mins-blue)
 <br>
-[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:cxyfreedom@gmail.com)
-[![](https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+![](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:najmossalahin.adib@gmail.com)
+[![](https://img.shields.io/github/stars/NajmosSalahin?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=NajmosSalahin&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
 
 ---
