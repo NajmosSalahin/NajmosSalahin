@@ -442,15 +442,29 @@ My Toolbox
 
 ## GitHub Stats
 
+<div align="center">
+  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmosSalahin&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+
+</div>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=NajmosSalahin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="Najmus Adib GitHub Stats" />
+    
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajmosSalahin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## Typing Stats
 
+<div align="center">
+
 <a href="https://monkeytype.com/profile/ChouCho_P">
         <img src="https://raw.githubusercontent.com/NajmosSalahin/NajmosSalahin/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
     </a>
+
+</div>
 
 ---
 ### Currently Working On & Learning
@@ -477,32 +491,10 @@ My Toolbox
 * **[Word-Explorer - Vocabulary Checker Website](https://github.com/NajmusAdib/Word-Explorer)**: This Website provides detailed word information (definitions, synonyms, antonyms, pronunciation) and AI-powered content (stories, usage tips, quizzes, etymology, translations, word families, idioms, collocations). Users can also save and manage vocabulary lists for future reference.
 * **[Zenith_Tracker - Personalized Habit and Mood Tracker](https://github.com/NajmusAdib/Zenith_Tracker)**: A web application designed to empower individuals in their journey towards holistic well-being. This intuitive tool helps users seamlessly track and improve essential aspects of their daily lives, including mood, habits, hydration, and sleep, by providing personalized insights and actionable recommendations.
 
----  
-
-### My Achievements
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=NajmusAdib&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
 ---
-
-### GitHub Overview 
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=NajmosSalahin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="Najmus Adib GitHub Stats" />
-    
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajmosSalahin&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
-#### Profile Visits
-
-<p align="center">
-    <img src="https://profile-counter.glitch.me/NajmusAdib/count.svg" alt="Profile views">
-</p>
 
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/resume.pdf" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c8b4e&height=120&section=footer" alt="footer"/>
