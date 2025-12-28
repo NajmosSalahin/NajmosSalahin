@@ -209,7 +209,7 @@
   <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/-Blender-3B4252?style=flat&logo=blender&logoColor=88C0D0" alt="Blender" /></a>
 </p>
 
-<h3 align="center">Connect with me & Collaborate</h3>
+<h3>Connect with me & Collaborate</h3>
 <p align="center">
   <a href="https://github.com/MarieLynneBlock" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20%28personal%29-3B4252?style=flat&logo=github&logoColor=8FBCBB" alt="GitHub" /></a>
   <a href="https://huggingface.co/MarieLynneBlock" target="_blank"><img src="https://img.shields.io/badge/-Hugging%20Face-3B4252?style=flat&logo=huggingface&logoColor=EBCB8B" alt="Hugging Face" /></a>
