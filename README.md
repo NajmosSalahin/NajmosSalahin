@@ -26,7 +26,7 @@
 ### Education
 
 * **B.Sc. in Statistics and Data Science** | Islamic University, Kushtia (2025–Present)
-    * **Key Courses:** Introduction to Statistics and Data Science, Computer Fundamentals and Task Oriented Software, Data Analysis Using MS Excel and Minitab, Elementary Probability
+    * **Key Courses:** Data Analysis, Machine Learning, Artificial Intellegence, Advanced Python Programming
 * **Higher Secondary Certificate (HSC)** | Dhaka Imperial College, Dhaka (2023–2025)
     * **GPA:** 5.00/5.00
 * **Secondary School Certificate (SSC)** | National Ideal School, Dhaka (2020–2022)
