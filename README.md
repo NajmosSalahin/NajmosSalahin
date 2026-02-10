@@ -45,29 +45,57 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 
 ---
 
-### 🚀 Projects
+### Featured Projects
 
-Here are some of my projects:
+#### 1. [Zenith Tracker | Holistic Health Engine](https://github.com/NajmusAdib/Zenith_Tracker)
+> **The Problem:** Generic health apps store data but lack correlation.  
+> **The Solution:** A personalized dashboard that connects the dots between mood, hydration, and sleep cycles.
 
-#### 1. [Zenith Tracker (Health & Habit Dashboard)](https://github.com/NajmusAdib/Zenith_Tracker)
-A personalized web app for tracking holistic well-being. It doesn't just store data; it offers insights into your mood, hydration, and sleep.
-* **Tech:** Python, Django, JavaScript, SQLite.
-* **Key Feature:** Custom dashboard with visualized data trends.
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-#### 2. [Word-Explorer (AI Vocabulary Tool)](https://github.com/NajmusAdib/Word-Explorer)
-This isn't just a dictionary. It uses AI to generate stories, usage tips, and quizzes based on the words you look up to help you actually remember them.
-* **Tech:** Python, NLP Integration, Web APIs.
-* **Key Feature:** Contextual learning engine and vocabulary list management.
+* **Core Logic:** Implements custom data visualization to reveal biological rhythm trends.
+* **Architecture:** Scalable Django backend with interactive JS frontend.
 
-#### 3. [Kanji Tool (Japanese Language Database)](https://github.com/NajmusAdib/Kanji_Tool)
-A massive database interface for over 13,000 Kanji characters. I built this to make searching complex characters fast and filterable.
-* **Tech:** Optimized Database Queries, Search Algorithms, Frontend Filtering.
-* **Key Feature:** High-performance filtering for a large dataset.
+<br>
 
-#### 4. [LinkVault (Smart Bookmark Manager)](https://github.com/NajmusAdib/Link_Vault)
-A modern alternative to browser bookmarks. It features drag-and-drop organization and local storage management.
-* **Tech:** HTML, CSS, JavaScript, Local Storage API.
-* **Key Feature:** Client-side data persistence without needing a backend.
+#### 2. [Word-Explorer | Contextual NLP Learning](https://github.com/NajmusAdib/Word-Explorer)
+> **The Problem:** Rote memorization of vocabulary rarely leads to retention.  
+> **The Solution:** An AI-driven tool that embeds new words into dynamic stories and quizzes, forcing active recall through context.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat-square)
+![APIs](https://img.shields.io/badge/API-Integration-orange?style=flat-square)
+
+* **Core Logic:** Uses Natural Language Processing to generate unique usage scenarios for every search.
+* **Impact:** Transforms static dictionary definitions into an interactive learning experience.
+
+<br>
+
+#### 3. [Kanji Tool | High-Performance Japanese Database](https://github.com/NajmusAdib/Kanji_Tool)
+> **The Problem:** Searching through thousands of complex logographic characters is slow and cumbersome.  
+> **The Solution:** A heavily optimized search interface for 13,000+ characters with instant filtering capabilities.
+
+![Algorithms](https://img.shields.io/badge/Algorithms-Search_Optimization-red?style=flat-square)
+![Database](https://img.shields.io/badge/Data-Query_Optimization-lightgrey?style=flat-square)
+
+* **Core Logic:** Implements advanced search algorithms to handle large-scale dataset filtering in real-time.
+* **Performance:** Zero-latency lookup for complex character sets.
+
+<br>
+
+#### 4. [LinkVault | Local-First Bookmark Manager](https://github.com/NajmusAdib/Link_Vault)
+> **The Problem:** Browser bookmarks are cluttered and difficult to organize visually.  
+> **The Solution:** A drag-and-drop interface offering complete control over your digital resources without server reliance.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Local Storage](https://img.shields.io/badge/API-Local_Storage-yellow?style=flat-square)
+
+* **Core Logic:** Client-side persistence architecture ensures data privacy and offline accessibility.
+* **UX Design:** Modern grid layout with intuitive drag-and-drop organization.
 
 ---
 
