@@ -48,6 +48,31 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 | **Tools** | Git, Docker, Jupyter Notebooks |
 
 ---
+### Certifications
+
+#### Applied Data Analysis with SPSS
+> **Issuer:** Islamic University Science Club (IUSC) & StatX  
+> **Date:** October 2023 <br>
+> **Registered by:** Ministry of Science and Technology 
+
+![SPSS](https://img.shields.io/badge/SPSS-Statistical_Analysis-blue?style=flat-square&logo=spss)
+![Training](https://img.shields.io/badge/Training-14_Days_Hands--On-green?style=flat-square)
+
+* **Scope:** Completed an 14-days intensive hands-on training program focused on practical data analysis.
+* **Key Skills:** Applied statistical methods, dataset management, and output interpretation using SPSS.
+---
+
+### Education
+
+* **B.Sc. in Statistics and Data Science** | Islamic University, Kushtia (2025–Present)
+    * **Key Courses:** Data Analysis, Machine Learning, Artificial Intellegence, Advanced Python Programming
+* **Higher Secondary Certificate (HSC)** | Dhaka Imperial College, Dhaka (2023–2025)
+    * **GPA:** 5.00/5.00
+* **Secondary School Certificate (SSC)** | National Ideal School, Dhaka (2020–2022)
+    * **GPA:** 5.00/5.00
+
+
+---
 
 ### Featured Projects
 
@@ -100,18 +125,6 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 
 * **Core Logic:** Client-side persistence architecture ensures data privacy and offline accessibility.
 * **UX Design:** Modern grid layout with intuitive drag-and-drop organization.
-
----
-
-### Education
-
-* **B.Sc. in Statistics and Data Science** | Islamic University, Kushtia (2025–Present)
-    * **Key Courses:** Data Analysis, Machine Learning, Artificial Intellegence, Advanced Python Programming
-* **Higher Secondary Certificate (HSC)** | Dhaka Imperial College, Dhaka (2023–2025)
-    * **GPA:** 5.00/5.00
-* **Secondary School Certificate (SSC)** | National Ideal School, Dhaka (2020–2022)
-    * **GPA:** 5.00/5.00
-
 
 ---
 
