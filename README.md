@@ -8,21 +8,25 @@
 
 <div align="center">
   <h1>Md. Najmos Salahin</h1>
-  <p><b>Data Science Student & Developer</b></p>
+  <h3><p><b>Data Scientist & Developer</b></p></h3>
   
   <p>
-    I am a Statistics & Data Science undergraduate at Islamic University, Bangladesh. <br>
-    I don't just analyze data; I build full applications to solve actual problems. My background in Statistics and Data Science gives me a strong mathematical foundation and Advanced Programming Knowledge, and my problem solving skills let me build the solution.
+    <h4> I am a Statistics & Data Science undergraduate at Islamic University, Bangladesh. <br> </h4>
+   
+    I don't just analyze data; I build full applications to solve actual problems.
+    My background in Statistics and Data Science gives me a strong mathematical foundation and 
+    Advanced Programming Knowledge, and my problem solving skills let me build the solution.
+    
   </p>
 
-  <a href="https://linkedin.com/in/md-najmos-salahin-185106371">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
+   <a href="https://linkedin.com/in/md-najmos-salahin-185106371">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:najmossalahin.adib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
 
@@ -112,8 +116,8 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 ---
 
 <div align="center">
-  <p><i>Thanks for visiting. If you want to discuss Machine Learning, Artificial Intelligence, Natural Language Processing or Python, C++ development, feel free to email me.</i></p>
-</div>
+  <h3><p><i>Thanks for visiting. If you want to discuss Machine Learning, Artificial Intelligence, Natural Language Processing or Python, C++ development, feel free to  <a href="mailto:najmossalahin.adib@gmail.com">Email</a> me.</i></p></h3>
+  </div>
 
 ---
 
