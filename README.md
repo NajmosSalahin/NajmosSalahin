@@ -49,7 +49,6 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 
 ---
 ### Certifications
-
 #### Applied Data Analysis with SPSS
 > **Issuer:** Islamic University Science Club (IUSC) & StatX  
 > **Date:** October 2023 <br>
@@ -57,10 +56,11 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 
 ![SPSS](https://img.shields.io/badge/SPSS-Statistical_Analysis-blue?style=flat-square&logo=spss)
 ![Training](https://img.shields.io/badge/Training-14_Days_Hands--On-green?style=flat-square)
+[![PDF](https://img.shields.io/badge/Download-Certificate_PDF-red?style=flat-square&logo=adobeacrobatreader)](certificates/IUSC_StatX_SPSS_Certificate.pdf)
 
 * **Scope:** Completed an 14-days intensive hands-on training program focused on practical data analysis.
 * **Key Skills:** Applied statistical methods, dataset management, and output interpretation using SPSS.
----
+
 #### Data Science & Analytics
 > **Issuer:** HP Foundation (HP LIFE)  
 > **Date:** March 2026 <br>
@@ -68,11 +68,11 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 
 ![Data Science](https://img.shields.io/badge/Data_Science-Analytics-blue?style=flat-square&logo=hp)
 ![Course](https://img.shields.io/badge/Course-Self--Paced-green?style=flat-square)
+[![PDF](https://img.shields.io/badge/Download-Certificate_PDF-red?style=flat-square&logo=adobeacrobatreader)](certificates/HP_LIFE_Data_Science_Analytics_Certificate.pdf)
 
 * **Scope:** Completed the HP LIFE online course covering leading data science and analytics practices, methodologies, and tools.
 * **Key Skills:** Data-driven business approaches, analytics methodologies, and foundational skills for a career in data science.
 * **Certificate Serial:** `2bc65e5e-9588-46c0-bb77-dc011d30365c`
-
 ---
 
 ### Education
