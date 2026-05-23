@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Good+Evening;I+am+Md.+Najmos+Salahin%2C+a+Data+Scientist" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Good+Evening;I'm+Md.+Najmos+Salahin%2C+a+Data+Scientist" width="70%" />
 
 </div>
 
@@ -11,7 +11,7 @@
   <h3><p><b>Data Scientist & Developer</b></p></h3>
   
   <p>
-    <h4> I am a Statistics & Data Science undergraduate at Islamic University, Bangladesh. <br> </h4>
+    <h4> I'm a Statistics & Data Science undergraduate at Islamic University, Bangladesh. <br> </h4>
    
     I don't just analyze data; I build full applications to solve actual problems.
     My background in Statistics and Data Science gives me a strong mathematical foundation and 
@@ -60,6 +60,19 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 
 * **Scope:** Completed an 14-days intensive hands-on training program focused on practical data analysis.
 * **Key Skills:** Applied statistical methods, dataset management, and output interpretation using SPSS.
+---
+#### Data Science & Analytics
+> **Issuer:** HP Foundation (HP LIFE)  
+> **Date:** March 2026 <br>
+> **Presented by:** Michele Malejki, Executive Director — HP Foundation
+
+![Data Science](https://img.shields.io/badge/Data_Science-Analytics-blue?style=flat-square&logo=hp)
+![Course](https://img.shields.io/badge/Course-Self--Paced-green?style=flat-square)
+
+* **Scope:** Completed the HP LIFE online course covering leading data science and analytics practices, methodologies, and tools.
+* **Key Skills:** Data-driven business approaches, analytics methodologies, and foundational skills for a career in data science.
+* **Certificate Serial:** `2bc65e5e-9588-46c0-bb77-dc011d30365c`
+
 ---
 
 ### Education
