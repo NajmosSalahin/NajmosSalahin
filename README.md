@@ -67,10 +67,10 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 > **Registered by:** Ministry of Science and Technology, Bangladesh 
 
 ![SPSS](https://img.shields.io/badge/SPSS-Statistical_Analysis-blue?style=flat-square&logo=spss)
-![Training](https://img.shields.io/badge/Training-14_Days_Hands--On-green?style=flat-square)
+![Training](https://img.shields.io/badge/Training-Hands--On-green?style=flat-square)
 [![PDF](https://img.shields.io/badge/Download-Certificate_PDF-red?style=flat-square&logo=adobeacrobatreader)](certificates/IUSC_StatX_SPSS_Certificate.pdf)
 
-* **Scope:** Completed an 14-days intensive hands-on training program focused on practical data analysis.
+* **Scope:** Completed an intensive hands-on training program focused on practical data analysis.
 * **Key Skills:** Applied statistical methods, dataset management, and output interpretation using SPSS.
 
 #### Data Science & Analytics
