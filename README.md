@@ -38,6 +38,10 @@
 
 I focus on **Python** for backend/data and **JavaScript** for frontend.
 
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td valign="top">
+
 | Domain | Technologies |
 | :--- | :--- |
 | **Data Science** | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
@@ -47,7 +51,15 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 | **Database** | MySQL, PostgreSQL, SQLite |
 | **Tools** | Git, Docker, Jupyter Notebooks |
 
+</td>
+<td valign="middle" align="center" width="290">
+  <img src="./cat.gif" width="250" height="360" />
+</td>
+</tr>
+</table>
+
 ---
+
 ### Certifications
 #### Applied Data Analysis with SPSS
 > **Issuer:** Islamic University Science Club (IUSC) & StatX  
