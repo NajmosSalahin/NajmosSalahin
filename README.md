@@ -64,7 +64,7 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 #### Applied Data Analysis with SPSS
 > **Issuer:** Islamic University Science Club (IUSC) & StatX  
 > **Date:** October 2023 <br>
-> **Registered by:** Ministry of Science and Technology 
+> **Registered by:** Ministry of Science and Technology, Bangladesh 
 
 ![SPSS](https://img.shields.io/badge/SPSS-Statistical_Analysis-blue?style=flat-square&logo=spss)
 ![Training](https://img.shields.io/badge/Training-14_Days_Hands--On-green?style=flat-square)
