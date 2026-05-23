@@ -85,6 +85,21 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 * **Scope:** Completed the HP LIFE online course covering leading data science and analytics practices, methodologies, and tools.
 * **Key Skills:** Data-driven business approaches, analytics methodologies, and foundational skills for a career in data science.
 * **Certificate Serial:** `2bc65e5e-9588-46c0-bb77-dc011d30365c`
+
+#### AI for Beginners
+> **Issuer:** HP Foundation (HP LIFE)  
+> **Date:** May 2026 <br>
+> **Presented by:** Michele Malejki, Executive Director — HP Foundation
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Beginners-blue?style=flat-square&logo=hp)
+![Course](https://img.shields.io/badge/Course-Self--Paced-green?style=flat-square)
+[![PDF](https://img.shields.io/badge/Download-Certificate_PDF-red?style=flat-square&logo=adobeacrobatreader)](certificates/HP_LIFE_AI_for_Beginners_Certificate.pdf)
+
+* **Scope:** Completed the HP LIFE online course covering the impact of AI on the technological landscape.
+* **Key Skills:** Key AI concepts and applications, the role of data in AI, business use cases, and ethical implications of AI.
+* **Certificate Serial:** `de4eee4a-1d8f-4db1-8dba-1868f9d173d9`
+
+
 ---
 
 ### Education
