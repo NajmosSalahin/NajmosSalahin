@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c8b4e&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5fb3b3&height=120&section=header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Good+Evening;I'm+Md.+Najmos+Salahin%2C+a+Data+Scientist" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=14b8a6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Good+Evening;I'm+Md.+Najmos+Salahin%2C+a+Data+Scientist" width="70%" />
 
 </div>
 
@@ -192,6 +192,6 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 > [!IMPORTANT]  
 > <a href="https://github.com/NajmosSalahin/NajmosSalahin/blob/main/resume.pdf" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c8b4e&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5fb3b3&height=120&section=footer" alt="footer"/>
 
 
