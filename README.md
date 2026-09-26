@@ -73,7 +73,7 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 * **Scope:** Completed an intensive hands-on training program focused on practical data analysis.
 * **Key Skills:** Applied statistical methods, dataset management, and output interpretation using SPSS.
 
-#### 5-Day Python Programming Bootcamp
+#### Python Programming Bootcamp
 > **Issuer:** Islamic University Science Club (IUSC)  
 > **Date:** April 2026 <br>
 > **Registered by:** National Science and Technology Museum, Ministry of Science and Technology, Bangladesh (Reg. No: GA-305/2025)
@@ -82,7 +82,7 @@ I focus on **Python** for backend/data and **JavaScript** for frontend.
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Online-green?style=flat-square)
 [![Certificate](https://img.shields.io/badge/View-Certificate-red?style=flat-square&logo=adobeacrobatreader)](certificates/Python_Certificate.png)
 
-* **Scope:** Actively participated in and completed an intensive 5-day Python programming bootcamp organized by IUSC.
+* **Scope:** Actively participated in and completed an intensive Python programming bootcamp organized by IUSC.
 * **Key Skills:** Python fundamentals, problem solving, and hands-on programming practice.
 * **Instructor:** Abu Talha
 
